@@ -6,7 +6,6 @@ Dada is a simple HTML5 game using --- game engine. It is a game where 2 players 
 
 Initially building as a game we can play on the browser. Later on be precompiled for mobile devices
 
-```
 ## Deployment
 
 Mainly browsers for now
