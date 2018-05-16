@@ -1,6 +1,6 @@
 # Dada
 
-Dada is a simple HTML5 game using --- game engine. It is a game where 2 players battle with each other through wifi by matching balls. The more combos a player makes, the more difficult he/she makes his oppenent match his/hers. 
+Dada is a simple HTML5 game using PixiJS game engine. It is a game where 2 players battle with each other through wifi by matching balls. The more combos a player makes, the more difficult he/she makes his oppenent match his/hers. 
 
 ### Installing
 
